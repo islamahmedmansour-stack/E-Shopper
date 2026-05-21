@@ -1,0 +1,290 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(234, 240, 245) !important;
+}
+
+:root {
+    --darkgray: #212529;
+}
+
+a {
+    text-decoration: none !important;
+    cursor: pointer;
+    /* transition-duration: 0.1s;  */
+}
+
+/* a:hover{
+    font-size: 20px;
+} */
+ .display_none{
+    display: none ;
+ }
+/* ================================================================================
+====================================================================================*/
+header {
+    width: 100%;
+    height: 50px;
+    background-color: var(--darkgray);
+}
+
+h1 {
+    font-size: 25px !important;
+    color: #FFC107 !important;
+}
+
+nav a {
+    color: white !important;
+    margin-right: 15px;
+    font-size: 18px;
+}
+
+nav span {
+    background-color: #DC3545;
+    color: white;
+    padding: 0px 6px;
+    vertical-align: middle;
+    padding-bottom: 3px;
+    border-radius: 3px;
+}
+#homePage , #favoritePage{
+    min-height: calc(100vh - 120px);
+}
+
+section h2 {
+    text-transform: capitalize;
+}
+
+/* ======================================= */
+.categoryType {
+    width: 95%;
+    max-width: 250px;
+    height: 80px;
+    background: linear-gradient(45deg,  rgb(255,215,0,0.5) 20%, transparent 69%),linear-gradient(135deg,#FFC027 28%, #FFC027 69%);
+    border-radius: 20px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.categoryType h3 {
+    color: white;
+    font-size: 22px;
+    line-height: 80px;
+}
+
+/* ======================================= */
+.item {
+    width: 95%;
+    height: 400px;
+    background-color: white;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.item img {
+    width: 100%;
+    height: 65%;
+}
+
+.itemContent h4 {
+    font-size: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.cardPrice {
+    color: #198754;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.viewBtn {
+    color: #0D6EFD;
+    border-color: #0D6EFD;
+    transition-duration: 0.5s;
+}
+
+.viewBtn:hover {
+    color: white;
+    background-color: #0D6EFD;
+}
+
+.favoriteLike {
+    color: #FF0909;
+    cursor: pointer;
+}
+
+/* ======================================= */
+#itemFullDetails {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 0;
+    z-index: 99999999999999 !important;
+}
+
+#fullscreen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99999999999999 !important;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(32, 20, 20, 0.8);
+}
+
+#itemCard {
+    width: fit-content;
+    height: fit-content;
+    max-width: 95%;
+    background-color: white;
+}
+
+#itemCard h3 {
+    width: 100%;
+    height: 50px;
+    background-color: var(--darkgray);
+    color: white;
+    line-height: 50px;
+    padding-left: 10px;
+}
+#itemCard img{
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+}
+#itemCard p{
+    max-width: 500px;
+    font-size: 18px;
+}
+#itemCard span{
+    font-size: 18px;
+    font-weight: bold;
+}
+/* ======================================= */
+footer {
+    width: 100%;
+    height: 50px;
+    background-color: var(--darkgray);
+    color: white;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  ====================================== media query ================ */
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}

@@ -1,0 +1,433 @@
+{
+    "Categories": [
+        "Beauty",
+        "Fragrances",
+        "Furniture",
+        "Groceries",
+        "Home Decoration",
+        "Kitchen Accessories",
+        "Laptops",
+        "Mens Shirts"
+    ],
+    "Beauty": [
+        {
+            "itemId": "C0I0",
+            "itemTitle": "Essence Mascara Lash Princess",
+            "itemPrice": "9.99",
+            "itemImageSrc": "images/beauty0.webp",
+            "itemDescription": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+            "itemAddedToFavorite": "true",
+            "itemBrand": "Essence",
+            "itemCategory": "Beauty"
+        },
+        {
+            "itemId": "C0I1",
+            "itemTitle": "Eyeshadow Palette with Mirror",
+            "itemPrice": "19.99",
+            "itemImageSrc": "images/beauty1.webp",
+            "itemDescription": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Glamour Beauty",
+            "itemCategory": "Beauty"
+        },
+        {
+            "itemId": "C0I2",
+            "itemTitle": "Powder Canister",
+            "itemPrice": "14.99",
+            "itemImageSrc": "images/beauty2.webp",
+            "itemDescription": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Velvet Touch",
+            "itemCategory": "Beauty"
+        },
+        {
+            "itemId": "C0I3",
+            "itemTitle": "Red Lipstick",
+            "itemPrice": "12.99",
+            "itemImageSrc": "images/beauty3.webp",
+            "itemDescription": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Chic Cosmetics",
+            "itemCategory": "Beauty"
+        },
+        {
+            "itemId": "C0I4",
+            "itemTitle": "Red Nail Polish",
+            "itemPrice": "8.99",
+            "itemImageSrc": "images/beauty4.webp",
+            "itemDescription": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Nail Couture",
+            "itemCategory": "Beauty"
+        }
+    ],
+    "Fragrances": [
+        {
+            "itemId": "C1I0",
+            "itemTitle": "Calvin Klein CK One",
+            "itemPrice": "49.99",
+            "itemImageSrc": "images/Fragrances0.webp",
+            "itemDescription": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Calvin Klein",
+            "itemCategory": "Fragrances"
+        },
+        {
+            "itemId": "C1I1",
+            "itemTitle": "Chanel Coco Noir Eau De",
+            "itemPrice": "129.99",
+            "itemImageSrc": "images/Fragrances1.webp",
+            "itemDescription": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Chanel",
+            "itemCategory": "Fragrances"
+        },
+        {
+            "itemId": "C1I2",
+            "itemTitle": "Dior J'adore",
+            "itemPrice": "89.99",
+            "itemImageSrc": "images/Fragrances2.webp",
+            "itemDescription": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+            "itemAddedToFavorite": "true",
+            "itemBrand": "Dior",
+            "itemCategory": "Fragrances"
+        },
+        {
+            "itemId": "C1I3",
+            "itemTitle": "Dolce Shine Eau de",
+            "itemPrice": "69.9",
+            "itemImageSrc": "images/Fragrances3.webp",
+            "itemDescription": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Dolce & Gabbana",
+            "itemCategory": "Fragrances"
+        },
+        {
+            "itemId": "C1I4",
+            "itemTitle": "Gucci Bloom Eau de",
+            "itemPrice": "79.99",
+            "itemImageSrc": "images/Fragrances4.webp",
+            "itemDescription": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Gucci",
+            "itemCategory": "Fragrances"
+        }
+    ],
+    "Furniture": [
+        {
+            "itemId": "C2I0",
+            "itemTitle": "Annibale Colombo Bed",
+            "itemPrice": "1899.99",
+            "itemImageSrc": "images/furniture0.webp",
+            "itemDescription": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Annibale Colombo",
+            "itemCategory": "Furniture"
+        },
+        {
+            "itemId": "C2I1",
+            "itemTitle": "Annibale Colombo Sofa",
+            "itemPrice": "2499.99",
+            "itemImageSrc": "images/furniture1.webp",
+            "itemDescription": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Annibale Colombo",
+            "itemCategory": "Furniture"
+        },
+        {
+            "itemId": "C2I2",
+            "itemTitle": "Bedside Table African Cherry",
+            "itemPrice": "299.99",
+            "itemImageSrc": "images/furniture2.webp",
+            "itemDescription": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Furniture Co.",
+            "itemCategory": "Furniture"
+        },
+        {
+            "itemId": "C2I3",
+            "itemTitle": "Knoll Saarinen Executive Conference Chair",
+            "itemPrice": "499.99",
+            "itemImageSrc": "images/furniture3.webp",
+            "itemDescription": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Knoll",
+            "itemCategory": "Furniture"
+        },
+        {
+            "itemId": "C2I4",
+            "itemTitle": "Wooden Bathroom Sink With Mirror",
+            "itemPrice": "799.99",
+            "itemImageSrc": "images/furniture4.webp",
+            "itemDescription": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Bath Trends",
+            "itemCategory": "Furniture"
+        }
+    ],
+    "Groceries": [
+        {
+            "itemId": "C3I0",
+            "itemTitle": "Apple",
+            "itemPrice": "1.99",
+            "itemImageSrc": "images/Groceries0.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Groceries"
+        },
+        {
+            "itemId": "C3I1",
+            "itemTitle": "Beef Steak",
+            "itemPrice": "12.99",
+            "itemImageSrc": "images/Groceries1.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Groceries"
+        },
+        {
+            "itemId": "C3I2",
+            "itemTitle": "Cat Food",
+            "itemPrice": "8.99",
+            "itemImageSrc": "images/Groceries2.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Groceries"
+        },
+        {
+            "itemId": "C3I3",
+            "itemTitle": "Chicken Meat",
+            "itemPrice": "9.99",
+            "itemImageSrc": "images/Groceries3.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Groceries"
+        },
+        {
+            "itemId": "C3I4",
+            "itemTitle": "Cooking Oil",
+            "itemPrice": "4.99",
+            "itemImageSrc": "images/Groceries4.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Groceries"
+        }
+    ],
+    "Home Decoration": [
+        {
+            "itemId": "C4I0",
+            "itemTitle": "Decoration Swing",
+            "itemPrice": "59.99",
+            "itemImageSrc": "images/home-decoration0.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Home Decoration"
+        },
+        {
+            "itemId": "C4I1",
+            "itemTitle": "Family Tree Photo Frame",
+            "itemPrice": "29.99",
+            "itemImageSrc": "images/home-decoration1.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Home Decoration"
+        },
+        {
+            "itemId": "C4I2",
+            "itemTitle": "House Showpiece Plant",
+            "itemPrice": "39.99",
+            "itemImageSrc": "images/home-decoration2.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Home Decoration"
+        },
+        {
+            "itemId": "C4I3",
+            "itemTitle": "Plant Pot",
+            "itemPrice": "14.99",
+            "itemImageSrc": "images/home-decoration3.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Home Decoration"
+        },
+        {
+            "itemId": "C4I4",
+            "itemTitle": "Table Lamp",
+            "itemPrice": "49.99",
+            "itemImageSrc": "images/home-decoration4.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Home Decoration"
+        }
+    ],
+    "Kitchen Accessories": [
+        {
+            "itemId": "C5I0",
+            "itemTitle": "Bamboo Spatula",
+            "itemPrice": "7.99",
+            "itemImageSrc": "images/kitchen-accessories0.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Kitchen Accessories"
+        },
+        {
+            "itemId": "C5I1",
+            "itemTitle": "Black Aluminium Cup",
+            "itemPrice": "5.99",
+            "itemImageSrc": "images/kitchen-accessories1.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Kitchen Accessories"
+        },
+        {
+            "itemId": "C5I2",
+            "itemTitle": "Black Whisk",
+            "itemPrice": "9.99",
+            "itemImageSrc": "images/kitchen-accessories2.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Kitchen Accessories"
+        },
+        {
+            "itemId": "C5I3",
+            "itemTitle": "Boxed Blender",
+            "itemPrice": "39.99",
+            "itemImageSrc": "images/kitchen-accessories3.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Kitchen Accessories"
+        },
+        {
+            "itemId": "C5I4",
+            "itemTitle": "Carbon Steel Wok",
+            "itemPrice": "29.99",
+            "itemImageSrc": "images/kitchen-accessories4.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Kitchen Accessories"
+        }
+    ],
+    "Laptops": [
+        {
+            "itemId": "C6I0",
+            "itemTitle": "Apple MacBook Pro 14 Inch Space Grey",
+            "itemPrice": "1999.99",
+            "itemImageSrc": "images/laptops0.webp",
+            "itemDescription": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Apple",
+            "itemCategory": "Laptops"
+        },
+        {
+            "itemId": "C6I1",
+            "itemTitle": "Asus Zenbook Pro Dual Screen Laptop",
+            "itemPrice": "1799.99",
+            "itemImageSrc": "images/laptops1.webp",
+            "itemDescription": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Asus",
+            "itemCategory": "Laptops"
+        },
+        {
+            "itemId": "C6I2",
+            "itemTitle": "Huawei Matebook X Pro",
+            "itemPrice": "1399.99",
+            "itemImageSrc": "images/laptops2.webp",
+            "itemDescription": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Huawei",
+            "itemCategory": "Laptops"
+        },
+        {
+            "itemId": "C6I3",
+            "itemTitle": "Lenovo Yoga 920",
+            "itemPrice": "1099.99",
+            "itemImageSrc": "images/laptops3.webp",
+            "itemDescription": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Lenovo",
+            "itemCategory": "Laptops"
+        },
+        {
+            "itemId": "C6I4",
+            "itemTitle": "New DELL XPS 13 9300 Laptop",
+            "itemPrice": "1499.99",
+            "itemImageSrc": "images/laptops4.webp",
+            "itemDescription": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Dell",
+            "itemCategory": "Laptops"
+        }
+    ],
+    "Mens Shirts": [
+        {
+            "itemId": "C7I0",
+            "itemTitle": "Blue & Black Check Shirt",
+            "itemPrice": "29.99",
+            "itemImageSrc": "images/mens-shirts0.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Beauty"
+        },
+        {
+            "itemId": "C7I1",
+            "itemTitle": "Gigabyte Aorus Men Tshirt",
+            "itemPrice": "24.99",
+            "itemImageSrc": "images/mens-shirts1.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Beauty"
+        },
+        {
+            "itemId": "C7I2",
+            "itemTitle": "Man Plaid Shirt",
+            "itemPrice": "34.99",
+            "itemImageSrc": "images/mens-shirts2.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Beauty"
+        },
+        {
+            "itemId": "C7I3",
+            "itemTitle": "Man Short Sleeve Shirt",
+            "itemPrice": "19.99",
+            "itemImageSrc": "images/mens-shirts3.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Beauty"
+        },
+        {
+            "itemId": "C7I4",
+            "itemTitle": "Men Check Shirt",
+            "itemPrice": "27.99",
+            "itemImageSrc": "images/mens-shirts4.webp",
+            "itemDescription": "*-*",
+            "itemAddedToFavorite": "false",
+            "itemBrand": "Not added !!",
+            "itemCategory": "Beauty"
+        }
+    ]
+}
+
+
+
+
+
